@@ -13,4 +13,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ![final output](./src/final.PNG)
-![final output video](./src/tictactoe.mp4)
+
+
+https://user-images.githubusercontent.com/83685421/199666641-35d65ab9-02e0-40d7-920e-fe6adda06208.mp4
+
